@@ -1,3 +1,12 @@
 apiVersion: v1
-entries: {}
-generated: "2022-09-06T18:14:21.06318+08:00"
+entries:
+  twistlock-console:
+  - apiVersion: v1
+    created: "2022-09-06T18:26:44.31192+08:00"
+    description: Twistlock Console Helm Chart
+    digest: 6a069c8dc49e877382909ee030604d04a05822f949f9a1fa2fe128f5b9a95102
+    name: twistlock-console
+    urls:
+    - twistlock-console-22.06.179.tgz
+    version: 22.06.179
+generated: "2022-09-06T18:26:44.311284+08:00"
